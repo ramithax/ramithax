@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramitha Manilka</h1>
 <h3 align="center">I am passionate about AI/ML and software development.</h3>
 
-- 🔭 I’m currently working on [DR.Computer](https://github.com/ramithax/Dr.Computer-backend.git)
+- 🔭 I’m currently working on [Dr.Computer](https://github.com/ramithax/Dr.Computer-backend.git)
 
 - 📫 How to reach me **ramithamanilka2003@gmail.com**
 
