@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dr.Computer](https://github.com/ramithax/Dr.Computer-backend.git)
 
-- 📫 How to reach me **ramithamanilka2003@gmail.com**
+- 📫 How to reach me **ramithamanilka200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
