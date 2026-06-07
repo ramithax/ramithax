@@ -25,7 +25,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,express,mongodb,mysql,postgres,firebase,flask,spring,tailwind,tensorflow" />
 </p>
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ramithax&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+![](https://streak-stats.demolab.com/?user=ramithax&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramithax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
