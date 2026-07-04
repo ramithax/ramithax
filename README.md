@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramitha Manilka</h1>
 
-<p align="center">
-  I am passionate about AI/ML and software development.
-</p>
-
 ---
 
 ### 📫 How to reach me
