@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ramitha Manilka</h1>
+<h1 align="center">𝗛𝗶, 𝗜'𝗺 𝗥𝗮𝗺𝗶𝘁𝗵𝗮</h1>
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%7C+Fullstack+Developer;Building+AI+Projects+%26+Web+Apps;" alt="Typing SVG" />
+</div>
+
 
 ### 📫 How to reach me
 - Email: **ramithamanilka2003@gmail.com**
