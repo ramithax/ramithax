@@ -23,7 +23,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,js,ts,html,css,java,python,react,nodejs,express,mongodb,mysql,postgres,firebase,flask,spring,tailwind,tensorflow,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=next,js,ts,html,css,java,python,react,nodejs,express,mongodb,mysql,postgres,firebase,flask,prisma,spring,tailwind,tensorflow,pandas,numpy" />
 </p>
 
 ### 📊 GitHub Stats:
