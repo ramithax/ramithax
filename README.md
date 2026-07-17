@@ -8,7 +8,7 @@
 
 
 ### 📫 How to reach me
-- Email: **ramithamanilka2003@gmail.com**
+- Email: **ramitha.manilka20@gmail.com**
 
 ---
 
