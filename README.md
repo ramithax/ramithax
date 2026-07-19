@@ -1,10 +1,20 @@
-<h1 align="center">𝗛𝗶, 𝗜'𝗺 𝗥𝗮𝗺𝗶𝘁𝗵𝗮</h1>
-
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=180&section=header&text=RAMITHA&fontSize=55&fontColor=0a0e0a&animation=fadeIn&fontAlignY=38&desc=AI+Enthusiast+%7C+Fullstack+Developerc+%7C+Backend+engineer&descAlignY=60&descAlign=50&descColor=0a0e0a)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%7C+Fullstack+Developer;Building+AI+Projects+%26+Web+Apps;" alt="Typing SVG" />
 </div>
+
+```python
+ramitha = {
+    "role":       "AIML Developer & Software Engineer",
+    "location":   "Kandy, Sri Lanka",
+    "learning":   ["NextJs", "ASP.NET CORE", "NestJs"],
+}
+```
+
+---
+
+---
 
 
 ### 📫 How to reach me
@@ -31,10 +41,13 @@
 
 ![](https://streak-stats.demolab.com/?user=ramithax&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramithax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 📡 Git Commits
 
 
 <p align="center">
-  ⭐️ From <b>Ramitha Manilka</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramithax&theme=github-dark-green&area=true&hide_border=true&bg_color=0a0e0a&color=00ff88" width="100%" alt="Infiltration Activity Over Time" />
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramithax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
