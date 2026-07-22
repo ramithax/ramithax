@@ -8,7 +8,7 @@
 ramitha = {
     "role":       "AIML Developer & Software Engineer",
     "location":   "Kandy, Sri Lanka",
-    "learning":   ["NextJs", "ASP.NET CORE", "NestJs"],
+    "learning":   ["NextJs", "ASP.NET CORE"],
 }
 ```
 
