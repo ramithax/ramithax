@@ -1,18 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=180&section=header&text=RAMITHA&fontSize=55&fontColor=0a0e0a&animation=fadeIn&fontAlignY=38&desc=AI+Enthusiast+%7C+Fullstack+Developer+%7C+Backend+engineer&descAlignY=60&descAlign=50&descColor=0a0e0a)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <img alt="ramithax's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%7C+Fullstack+Developer;Building+AI+Projects+%26+Web+Apps;" alt="Typing SVG" />
 </div>
-
-```python
-ramitha = {
-    "role":       "AIML Developer & Software Engineer",
-    "location":   "Kandy, Sri Lanka",
-    "learning":   ["NextJs", "ASP.NET CORE"],
-}
-```
-
----
 
 ---
 
