@@ -15,7 +15,7 @@
 
 ---
 
-### 🌐 Connect with me!
+### 🌐 Connect with me!!
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
