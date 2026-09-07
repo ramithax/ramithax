@@ -40,5 +40,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramithax&theme=github-dark-green&area=true&hide_border=true&bg_color=0a0e0a&color=00ff88" width="100%" alt="Infiltration Activity Over Time" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramithax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
