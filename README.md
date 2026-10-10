@@ -10,7 +10,7 @@
 ---
 
 
-### 📫 How to reach me
+### 📫 How to reach me !
 - Email: **ramitha.manilka20@gmail.com**
 
 ---
